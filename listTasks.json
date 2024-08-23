@@ -1,0 +1,93 @@
+[
+    {
+        "idT" : 0,
+        "titleT" : "1er Reunion con el Cliente",
+        "bodyT" : "Investigar cliente, agendar contactos, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0001"
+    },
+    {
+        "idT" : 1,
+        "titleT" : "Reunion con el Buffete",
+        "bodyT" : "Reunir información del caso, investigar el juez a cargo, revisar actividad del Buffete",
+        "statusT" : 0,
+        "case" : "EXP-0001"
+    },
+    {
+        "idT" : 2,
+        "titleT" : "2da Reunion con el Cliente",
+        "bodyT" : "Reunir pruebas, testimonios, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0001"
+    },
+    {
+        "idT" : 3,
+        "titleT" : "Preparar defensa",
+        "bodyT" : "Análisis de la información, reunión con testigos, investigación de la contraparte",
+        "statusT" : 0,
+        "case" : "EXP-0001"
+    },
+    {
+        "idT" : 4,
+        "titleT" : "1er Reunion con el Cliente",
+        "bodyT" : "Investigar cliente, agendar contactos, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0002"
+    },
+    {
+        "idT" : 5,
+        "titleT" : "Reunion con el Buffete",
+        "bodyT" : "Reunir información del caso, investigar el juez a cargo, revisar actividad del Buffete",
+        "statusT" : 0,
+        "case" : "EXP-0002"
+    },
+    {
+        "idT" : 6,
+        "titleT" : "2da Reunion con el Cliente",
+        "bodyT" : "Reunir pruebas, testimonios, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0003"
+    },
+    {
+        "idT" : 7,
+        "titleT" : "Preparar defensa",
+        "bodyT" : "Análisis de la información, reunión con testigos, investigación de la contraparte",
+        "statusT" : 0,
+        "case" : "EXP-0003"
+    },
+    {
+        "idT" : 8,
+        "titleT" : "1er Reunion con el Cliente",
+        "bodyT" : "Investigar cliente, agendar contactos, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0004"
+    },
+    {
+        "idT" : 9,
+        "titleT" : "1er Reunion con el Cliente",
+        "bodyT" : "Investigar cliente, agendar contactos, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0005"
+    },
+    {
+        "idT" : 10,
+        "titleT" : "Reunion con el Buffete",
+        "bodyT" : "Reunir información del caso, investigar el juez a cargo, revisar actividad del Buffete",
+        "statusT" : 0,
+        "case" : "EXP-0005"
+    },
+    {
+        "idT" : 11,
+        "titleT" : "2da Reunion con el Cliente",
+        "bodyT" : "Reunir pruebas, testimonios, preparar preguntas",
+        "statusT" : 0,
+        "case" : "EXP-0005"
+    },
+    {
+        "idT" : 12,
+        "titleT" : "Preparar defensa",
+        "bodyT" : "Análisis de la información, reunión con testigos, investigación de la contraparte",
+        "statusT" : 0,
+        "case" : "EXP-0005"
+    }
+]

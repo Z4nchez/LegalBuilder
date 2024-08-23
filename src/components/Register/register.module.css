@@ -1,0 +1,36 @@
+.barModule1, .barModule2{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.barCont{
+    width: auto;
+    height: 100%;
+    overflow: hidden;
+}
+.bar{
+    width: auto;
+    height: 200%;
+    animation: desp 40s linear infinite;
+    top: 0%;
+    position: relative;
+}
+@keyframes desp {
+    0%{
+        top: 0%;
+    }
+    100%{
+        top: -100%;
+    }
+}
+
+@media screen and (width < 768px) {
+    .barModule1{
+        justify-content: flex-start;
+    }
+    .barModule2{
+        justify-content: flex-end;
+    }
+}

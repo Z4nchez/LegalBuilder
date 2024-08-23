@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "nExp" : "EXP-0001",
+        "category" : "Contratos Comerciales",
+        "state" : "In Progress"
+    },
+    {
+        "id": 1,
+        "nExp" : "EXP-0002",
+        "category" : "Laboral",
+        "state" : "In Progress"
+    },
+    {
+        "id": 2,
+        "nExp" : "EXP-0003",
+        "category" : "Contratos Comerciales",
+        "state" : "Closed"
+    },
+    {
+        "id": 3,
+        "nExp" : "EXP-0004",
+        "category" : "Siniestro",
+        "state" : "In Progress"
+    },
+    {
+        "id": 4,
+        "nExp" : "EXP-0005",
+        "category" : "Siniestro",
+        "state" : "Closed"
+    },
+    {
+        "id": 5,
+        "nExp" : "EXP-0006",
+        "category" : "Laboral",
+        "state" : "Closed"
+    },
+    {
+        "id": 6,
+        "nExp" : "EXP-0007",
+        "category" : "Contratos Comerciales",
+        "state" : "In Progress"
+    },
+    {
+        "id": 7,
+        "nExp" : "EXP-0008",
+        "category" : "Siniestro",
+        "state" : "In Progress"
+    },
+    {
+        "id": 8,
+        "nExp" : "EXP-0009",
+        "category" : "Laboral",
+        "state" : "Closed"
+    },
+    {
+        "id": 9,
+        "nExp" : "EXP-0010",
+        "category" : "Contratos Comerciales",
+        "state" : "Closed"
+    },
+    {
+        "id": 10,
+        "nExp" : "EXP-0011",
+        "category" : "Laboral",
+        "state" : "In Progress"
+    },
+    {
+        "id": 11,
+        "nExp" : "EXP-0012",
+        "category" : "Siniestro",
+        "state" : "Closed"
+    },
+    {
+        "id": 12,
+        "nExp" : "EXP-0013",
+        "category" : "Contratos Comerciales",
+        "state" : "In Progress"
+    },
+    {
+        "id": 13,
+        "nExp" : "EXP-0014",
+        "category" : "Siniestro",
+        "state" : "Closed"
+    },
+    {
+        "id": 14,
+        "nExp" : "EXP-0015",
+        "category" : "Laboral",
+        "state" : "In Progress"
+    },
+    {
+        "id": 15,
+        "nExp" : "EXP-0016",
+        "category" : "Contratos Comerciales",
+        "state" : "In Progress"
+    },
+    {
+        "id": 16,
+        "nExp" : "EXP-0017",
+        "category" : "Siniestro",
+        "state" : "Closed"
+    },
+    {
+        "id": 17,
+        "nExp" : "EXP-0018",
+        "category" : "Laboral",
+        "state" : "In Progress"
+    },
+    {
+        "id": 18,
+        "nExp" : "EXP-0019",
+        "category" : "Contratos Comerciales",
+        "state" : "Closed"
+    },
+    {
+        "id": 19,
+        "nExp" : "EXP-0020",
+        "category" : "Siniestro",
+        "state" : "In Progress"
+    }
+]

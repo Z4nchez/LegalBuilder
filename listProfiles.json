@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Carlos",
+        "surename": "Aguirre",
+        "category": "Penal",
+        "nCases": 12,
+        "active": true,
+        "address": "Av. Brown 1234",
+        "email": "car_aguirre@gmail.com",
+        "phone": "12345678"
+    },
+    {
+        "name": "Román",
+        "surename": "Díaz",
+        "category": "Laboral",
+        "nCases": 5,
+        "active": false,
+        "address": "Av. Constitución 7120",
+        "email": "romodiaz@gmail.com",
+        "phone": "56736212"
+    },
+    {
+        "name": "Alejandro",
+        "surename": "Ford",
+        "category": "Civil",
+        "nCases": 21,
+        "active": true,
+        "address": "Ruta 44 km. 70",
+        "email": "alealeford@gmail.com",
+        "phone": "45657283"
+    },
+    {
+        "name": "Mark",
+        "surename": "Calvin",
+        "category": "Societario",
+        "nCases": 4,
+        "active": true,
+        "address": "Av. Libertador 4ta entrada",
+        "email": "markcalvin33@gmail.com",
+        "phone": "216283445"
+    }
+]
